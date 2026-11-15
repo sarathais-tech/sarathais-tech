@@ -1,25 +1,20 @@
-# Olá, eu sou a Sara Thais
+<h1 align="center">Sara Thais 🩷</h1>
 
-Sou estudante de Engenharia de Software na UniGoiás e analista de NOC. No trabalho, atuo com monitoramento de ambientes e atendimento a incidentes. Nos meus projetos, exploro desenvolvimento backend, comunicação em rede e sistemas embarcados.
+<p align="center"><strong>Sasa Tech</strong> · Engenharia de Software · NOC</p>
 
-## Projetos em destaque
+🎓 Estudo Engenharia de Software na UniGoiás.  
+💻 Trabalho como analista de NOC, com monitoramento e atendimento a incidentes.
 
-### [Coflume](https://github.com/sarathais-tech/coflume)
+Gosto de pegar uma ideia e fazer ela funcionar na prática. No Coflume, isso significou construir um cofre físico e colocar uma rede neural para rodar dentro dele. Também desenvolvo projetos em Java para explorar como as aplicações se comunicam em rede.
 
-Cofre educacional que desenvolvi com ESP32-S3 e apresentei na InovaTech 2026. No Quiz, a Guardiã IA roda na placa e ajuda a adaptar a dificuldade das perguntas durante a partida.
+## 🩷 Projetos em destaque
 
-[Experimente a Guardiã IA sem o cofre](https://github.com/sarathais-tech/coflume#experimente-a-guardi%C3%A3-ia)
+- **[Coflume](https://github.com/sarathais-tech/coflume)** — Cofre educacional com ESP32-S3 e Quiz adaptativo, apresentado na InovaTech 2026. Você pode [experimentar a Guardiã IA sem o cofre](https://github.com/sarathais-tech/coflume#experimente-a-guardi%C3%A3-ia).
+- **[Incident Support Chat](https://github.com/sarathais-tech/incident-support-chat-java)** — Simulação de atendimento a incidentes com chat criptografado e sockets TCP em Java.
+- **[Chat TCP/UDP](https://github.com/sarathais-tech/chat-tcp-udp)** — Chat por WebSockets em Spring Boot e testes de latência UDP com perda de pacotes simulada.
 
-### Java e redes
+## 🛠️ Tecnologias
 
-| Projeto | O que desenvolvi |
-| --- | --- |
-| [Incident Support Chat](https://github.com/sarathais-tech/incident-support-chat-java) | Aplicação cliente-servidor em Java para simular atendimento a incidentes, com sockets TCP e chat criptografado. |
-| [Chat TCP/UDP](https://github.com/sarathais-tech/chat-tcp-udp) | Demonstração em Spring Boot com chat por WebSockets e testes de latência UDP com perda de pacotes simulada. |
-
-
-## Tecnologias
-
-- **Backend e dados** · Python, FastAPI, Java e PostgreSQL
-- **Monitoramento e suporte** · Zabbix, Grafana e GLPI
-- **Sistemas embarcados** · ESP32-S3, Arduino e C++
+**Backend e dados** · Python, FastAPI, Java e PostgreSQL  
+**Monitoramento e suporte** · Zabbix, Grafana e GLPI  
+**Sistemas embarcados** · ESP32-S3, Arduino e C++
