@@ -1,4 +1,4 @@
-![Sara Thais · Sasa Tech · Engenharia de Software, NOC e sistemas embarcados](assets/sara-tech-banner.png)
+# Olá, eu sou a Sara Thais
 
 Sou estudante de Engenharia de Software na UniGoiás e analista de NOC. No trabalho, atuo com monitoramento de ambientes e atendimento a incidentes. Nos meus projetos, exploro desenvolvimento backend, comunicação em rede e sistemas embarcados.
 
@@ -7,8 +7,6 @@ Sou estudante de Engenharia de Software na UniGoiás e analista de NOC. No traba
 ### [Coflume](https://github.com/sarathais-tech/coflume)
 
 Cofre educacional que desenvolvi com ESP32-S3 e apresentei na InovaTech 2026. No Quiz, a Guardiã IA roda na placa e ajuda a adaptar a dificuldade das perguntas durante a partida.
-
-[<img src="https://raw.githubusercontent.com/sarathais-tech/coflume/main/docs/imagens/coflume-prototipo.jpg" alt="Protótipo do Coflume com a porta aberta e o LED verde aceso" width="200">](https://github.com/sarathais-tech/coflume)
 
 [Experimente a Guardiã IA sem o cofre](https://github.com/sarathais-tech/coflume#experimente-a-guardi%C3%A3-ia)
 
