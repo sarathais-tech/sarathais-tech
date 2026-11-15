@@ -1,11 +1,10 @@
-<h1 align="center">Sara Thais 🩷</h1>
+# Sara Thais · Sasa Tech
 
-<p align="center"><strong>Sasa Tech</strong> · Engenharia de Software · NOC</p>
+**Do monitoramento de redes à bancada de eletrônica.**
 
-🎓 Estudo Engenharia de Software na UniGoiás.  
-💻 Trabalho como analista de NOC, com monitoramento e atendimento a incidentes.
+Sou estudante de Engenharia de Software na UniGoiás e trabalho como analista de NOC, acompanhando alertas e atendendo incidentes. Nos meus projetos, gosto de entender o caminho inteiro: o que acontece na tela, como os dados circulam e o que faz um dispositivo reagir.
 
-Gosto de pegar uma ideia e fazer ela funcionar na prática. No Coflume, isso significou construir um cofre físico e colocar uma rede neural para rodar dentro dele. Também desenvolvo projetos em Java para explorar como as aplicações se comunicam em rede.
+O Coflume nasceu desse interesse. Desenvolvi um cofre que dá pistas na tela, recebe respostas pelo teclado e usa uma rede neural no ESP32-S3 para adaptar a dificuldade do Quiz. Na InovaTech 2026, pude mostrar tudo isso funcionando no protótipo.
 
 ## 🩷 Projetos em destaque
 
