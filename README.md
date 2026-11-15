@@ -7,7 +7,6 @@ Sou estudante de Engenharia de Software na UniGoiás e analista de NOC. No traba
 | Projeto | O que desenvolvi |
 | --- | --- |
 | [Coflume](https://github.com/sarathais-tech/coflume) | Cofre educacional com ESP32-S3, Quiz adaptativo e uma rede neural que roda na placa. Apresentei o projeto na InovaTech 2026. |
-| [APiE](https://github.com/sarathais-tech/apie-process-intelligence) | TCC sobre captura de eventos e reconstrução de processos, com Python, FastAPI e PostgreSQL. |
 | [Incident Support Chat](https://github.com/sarathais-tech/incident-support-chat-java) | Aplicação cliente-servidor em Java para simular atendimento a incidentes, com sockets TCP e chat criptografado. |
 
 Quer ver a IA embarcada do Coflume em ação? Siga a [demonstração da Guardiã sem o cofre](https://github.com/sarathais-tech/coflume#experimente-a-guardi%C3%A3-ia).
